@@ -1,0 +1,21 @@
+Description of the app functionality -> Needed features
+format: as a [user], i want [action] so that [benefit]
+
+1.- As a user, i want to log my running workouts with location, distance, time, pace and steps/min,
+ so i can keep a log of all my running.
+    + Map where user clicks to add workouts
+    + Geolocation to display map at current position
+    + Form to inout distance, time, pace, steps/minute
+
+2.- as a user, i want to log my cycling workouts with location, distance, time, speed and elevation gain,
+so i can keep a log of all my cycling.
+    + Form to imput distance, time, speed, elevation gain
+
+3.- As a user, i want to see all my workouts at a glance, so i can easily track my progress over time.
+    + Display all workouts in a list
+
+4.- As a user, i want to see my workouts on a map, so i can easily check where i work out the most.
+    + Display all the workouts in the map
+
+5.- As a user, i want to see all my workouts when i leave the app and come back later.
+    + Store workouts in the browser using local storage API
